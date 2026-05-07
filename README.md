@@ -23,13 +23,26 @@
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
           </div>
     </div>
+
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 GitHub Trophies </h2> 
+    <div align="center"> 
+        <img src="https://github-profile-trophy.vercel.app/?username=FLOHERE&theme=radical&margin-w=15&column=7" />
+    </div> 
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=@SSOYAM0225> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=@SSOYAM0225"> </a>
          <a href=https://velog.io/@jjjj0323/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jjjj0323/posts"> </a>
          <a href=mailto:jjjj032321@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjjj032321@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFLOHERE%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
+
+  <div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div align="center"> 
+        <!-- 랭크(등급)가 나오는 메인 스탯 카드 -->
+        <img src="https://github-readme-stats.vercel.app/api?username=FLOHERE&show_icons=true&theme=radical"/> 
+        <!-- 가장 많이 쓴 언어 카드 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLOHERE&layout=compact&theme=radical"/> 
     </div>
-    <div align= "center"> 
+</div>
