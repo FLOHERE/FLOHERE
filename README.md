@@ -41,8 +41,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align="center"> 
         <!-- 랭크(등급)가 나오는 메인 스탯 카드 -->
-        <img src="https://flohere.vercel.app/api?username=FLOHERE&show_icons=true&theme=radical"/> 
+        <img src="https://github-readme-state-mu.vercel.app/api?username=FLOHERE&show_icons=true&theme=radical"/> 
         <!-- 가장 많이 쓴 언어 카드 -->
-        <img src="https://flohere.vercel.app/api/top-langs/?username=FLOHERE&layout=compact&theme=radical"/> 
+        <img src="https://github-readme-state-mu.vercel.app/api/top-langs/?username=FLOHERE&layout=compact&theme=radical&hide=javascript,html,css"/> 
     </div>
 </div>
